@@ -1,2 +1,3 @@
-# documentation
-For documentation and such objects that are meant for collaborations.
+# Documentation
+
+This repository exists to hold stable versions of notebooks, examples, tutorials, and documentation for collaborative projects.
